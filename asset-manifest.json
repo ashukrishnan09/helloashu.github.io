@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashukrishnan09/helloashu.github.io/static/css/main.66f8ca8a.css",
+    "main.js": "/ashukrishnan09/helloashu.github.io/static/js/main.7938de9b.js",
+    "static/js/787.cdfe00ef.chunk.js": "/ashukrishnan09/helloashu.github.io/static/js/787.cdfe00ef.chunk.js",
+    "index.html": "/ashukrishnan09/helloashu.github.io/index.html",
+    "main.66f8ca8a.css.map": "/ashukrishnan09/helloashu.github.io/static/css/main.66f8ca8a.css.map",
+    "main.7938de9b.js.map": "/ashukrishnan09/helloashu.github.io/static/js/main.7938de9b.js.map",
+    "787.cdfe00ef.chunk.js.map": "/ashukrishnan09/helloashu.github.io/static/js/787.cdfe00ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66f8ca8a.css",
+    "static/js/main.7938de9b.js"
+  ]
+}
